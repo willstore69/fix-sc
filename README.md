@@ -1,5 +1,5 @@
 # fix-sc
-beberapa tool buat ngefix sc gw
+tool buat ngefix sc gw
 
 
 # fix xray tls sock already used
