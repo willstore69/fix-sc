@@ -16,5 +16,5 @@ wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-menu-v2.sh &&
 
 # fix problem menu v3
 ```
-wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-menu-v2.sh && chmod +x fix-menu-v3.sh && ./fix-menu-v3.sh && rm -rf fix-menu-v3.sh
+wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-menu-v3.sh && chmod +x fix-menu-v3.sh && ./fix-menu-v3.sh && rm -rf fix-menu-v3.sh
 ```
