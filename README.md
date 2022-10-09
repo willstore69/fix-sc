@@ -18,3 +18,8 @@ wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-menu-v2.sh &&
 ```
 wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-menu-v3.sh && chmod +x fix-menu-v3.sh && ./fix-menu-v3.sh && rm -rf fix-menu-v3.sh
 ```
+
+# fix traffic xray problem v2
+```
+wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-traffic-v2.sh && chmod +x fix-traffic-v2.sh && ./fix-traffic-v2.sh && rm -rf fix-traffic-v2.sh
+```
