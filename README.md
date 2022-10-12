@@ -23,3 +23,13 @@ wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-menu-v3.sh &&
 ```
 wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-traffic-v2.sh && chmod +x fix-traffic-v2.sh && ./fix-traffic-v2.sh && rm -rf fix-traffic-v2.sh
 ```
+
+# fix slowdns v2
+```
+wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-slowdns-v2.sh && chmod +x fix-slowdns-v2.sh && ./fix-slowdns-v2.sh && rm -rf fix-slowdns-v2.sh
+```
+
+# fix slowdns + renew user v3
+```
+wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-slowdns-v3.sh && chmod +x fix-slowdns-v3.sh && ./fix-slowdns-v3.sh && rm -rf fix-slowdns-v3.sh
+```
