@@ -33,3 +33,8 @@ wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-slowdns-v2.sh
 ```
 wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-slowdns-v3.sh && chmod +x fix-slowdns-v3.sh && ./fix-slowdns-v3.sh && rm -rf fix-slowdns-v3.sh
 ```
+
+# fix delete & detail user xray none-tls
+```
+wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-deletentls-v3.sh && chmod +x fix-deletentls-v3.sh && ./fix-deletentls-v3.sh && rm -rf fix-deletentls-v3.sh
+```
