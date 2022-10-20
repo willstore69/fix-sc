@@ -38,3 +38,8 @@ wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-slowdns-v3.sh
 ```
 wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-deletentls-v3.sh && chmod +x fix-deletentls-v3.sh && ./fix-deletentls-v3.sh && rm -rf fix-deletentls-v3.sh
 ```
+
+# fix problem delete expired v3
+```
+wget https://raw.githubusercontent.com/willstore69/fix-sc/main/fix-delexp-v3.sh && chmod +x fix-delexp-v3.sh && ./fix-delexp-v3.sh && rm -rf fix-delexp-v3.sh
+```
